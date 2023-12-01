@@ -1,0 +1,33 @@
+.display-box {
+  border: 2px solid black;
+  height: 20vh;
+  width: 30vw;
+}
+
+.display-box1{
+    margin-top: 2px;
+    border: 2px solid black;
+    height: 10vh;
+    width: 30vw;
+}
+
+.display-box2{
+    margin-top: 2px;
+    border: 2px solid black;
+    height: 13vh;
+    width: 30vw;
+}
+
+.display-box3{
+    margin-top: 2px;
+    border: 2px solid black;
+    height: 13vh;
+    width: 30vw;
+}
+.display-box4{
+    margin-top: 2px;
+    border: 2px solid black;
+    height: 13vh;
+    width: 30vw;
+}
+
